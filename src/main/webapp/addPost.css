@@ -1,0 +1,16 @@
+#box {
+    border: 5px solid #eaeae1;
+    width: 1000px;
+    height: 400px;
+    background: #eaeae1;
+    margin-left: 150px;
+}
+
+{
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 8px 12px;
+    border: 1px solid #dbdbdb;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
